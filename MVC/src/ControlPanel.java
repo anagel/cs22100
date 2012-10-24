@@ -18,7 +18,7 @@ public class ControlPanel extends JPanel implements ActionListener{
 	static final String SERDATFILE = "data.ser";
 	
 	
-	StudentPanel sPanel;
+	StudentPanel sPanel = new StudentPanel();
 	StudentManager theStudents;
 	JLabel nLab = new JLabel("Name: ");
 	JLabel accLab = new JLabel("Account Num: ");

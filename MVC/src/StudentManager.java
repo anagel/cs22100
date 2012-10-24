@@ -22,6 +22,7 @@ public class StudentManager {
 	
 	public void add(Student s)
 	{
+	
 		theStudents.add(s);
 	}
 	
