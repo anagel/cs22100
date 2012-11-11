@@ -17,7 +17,6 @@ public class ShapeOverlay extends JPanel{
 			shapes.get(i).draw(g);
 		}
 		
-		g.fill3DRect(200, 200, 30, 30, true);
 	}
 	
 	public void add(Shape s)
