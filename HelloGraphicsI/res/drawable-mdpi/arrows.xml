@@ -1,0 +1,6 @@
+      <transition xmlns:android="http://schemas.android.com/apk/res/android">
+      <item android:drawable="@drawable/arrow1"/>
+	  <item android:drawable="@drawable/arrow2"/>
+      <item android:drawable="@drawable/arrow3"/>
+      <item android:drawable="@drawable/arrow4"/>
+      </transition>
