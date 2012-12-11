@@ -23,7 +23,7 @@ public class HelloGraphicsActivity extends Activity {
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState); 
+        super.onCreate(savedInstanceState);  
         setContentView(R.layout.main); 
         
         animation = (ImageView)findViewById(R.id.ani);
